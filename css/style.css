@@ -1,0 +1,141 @@
+
+input.l{
+
+    width: 100%;
+	padding: 12px 20px;
+	display: inline-block;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+}
+
+form.dele{
+
+	right:50%;
+}
+
+body{
+
+	background-image : url(work5.png) ; 
+	background-repeat: no-repeat; 
+	background-size:150% 80% ;
+	background-position:center ;
+	z-index:1
+
+}
+
+div .test2{
+
+	width:90%;
+	border: 3bx solid black ; 
+	opacity:0.7; 
+	background-color:#ffffff ;
+	margin:50px 50px ;
+	padding:10px 10px;
+	z-index:2;
+
+}
+
+div .test1{
+
+	width:40%;
+	border: 3bx solid black ; 
+	opacity:0.7; 
+	background-color:#ffffff ;
+	margin:50px 50px ;
+	padding:10px 10px;
+	z-index:2;
+}
+
+footer {
+
+	bottom:100%;
+}
+
+.menu{
+
+	position: absolute;
+	right: 120px;
+	top: 2%;
+}
+.right {
+
+	position: absolute;
+	right: 220px;
+	top: 15px;
+
+}
+.breadcrumb li {
+
+	display: inline;
+
+}
+
+.breadcrumb li a {
+
+	color: black;
+	text-decoration: none;
+}
+
+.dropdown {
+
+	position: relative;
+	display: inline-block;
+}
+
+.dropdown-content {
+
+	display: none;
+	position: absolute;
+	background-color: #f9f9f9;
+	min-width: 160px;
+
+
+}
+
+.dropdown-content a {
+
+	color: black;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+}
+
+.dropdown-content a:hover {
+	
+	background-color: #f1f1f1
+}
+
+.dropdown:hover .dropdown-content {
+
+	display: block;
+}
+
+div.box1{
+
+	background-color: #d9b38c;
+	width: 1290px;
+	height : 400px;
+	border : 3px solid none ;
+	padding : 30px 30px;	
+}
+
+div.box2{
+
+	background-color: #d9b38c;
+	width: 1290px;
+	height : 30px;
+	border : 3px solid none ;
+	padding : 10px 30px;	
+}
+
+div.box3{
+	
+	background-color: white;
+	width: 1290px;
+	height : 10px;
+	border : 3px solid none ;
+	padding : 40px 30px;	
+}
+
+
